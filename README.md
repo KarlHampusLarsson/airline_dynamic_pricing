@@ -1,2 +1,18 @@
-# airline_dynamic_pricing
-This project demonstrates a dynamic pricing optimizer for simulated airline flights. Using multiple linear regression to forecast demand, we a applied a continuous price adjustment around existing fares.
+# Optimizing Airline Revenue Using Dynamic Pricing
+
+## Overview
+This project simulates airline demand and explores continuous dynamic pricing strageies to improve revenue using a regression model demand forecast.
+
+## How to Run
+1. Clone this repository
+2. Install dependencies:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+3. Open 'dynamic_pricing_notebook.ipynb' in Jupyter and run all cells.
+
+## Files
+- 'dynamic_pricing_notebook.ipynb': Main analysis
+- 'synthetic_demand.csv': Simulated synhthetic dataset used for modeling
