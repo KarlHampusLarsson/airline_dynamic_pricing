@@ -1,7 +1,7 @@
 # Optimizing Airline Revenue Using Dynamic Pricing
 
 ## Overview
-This project simulates airline demand and explores continuous dynamic pricing strageies to improve revenue using a regression model demand forecast.
+This project simulates airline demand and explores continuous dynamic pricing strategies to improve revenue using a regression model demand forecast.
 
 ## How to Run
 1. Clone this repository
@@ -15,4 +15,4 @@ This project simulates airline demand and explores continuous dynamic pricing st
 
 ## Files
 - 'dynamic_pricing_notebook.ipynb': Main analysis
-- 'synthetic_demand.csv': Simulated synhthetic dataset used for modeling
+- 'synthetic_demand.csv': Snhthetic dataset used for modeling
