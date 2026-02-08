@@ -15,4 +15,4 @@ This project simulates airline demand and explores continuous dynamic pricing st
 
 ## Files
 - 'dynamic_pricing_notebook.ipynb': Main analysis
-- 'synthetic_demand.csv': Snhthetic dataset used for modeling
+- 'synthetic_demand.csv': Synthetic dataset used for modeling
