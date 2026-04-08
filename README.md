@@ -10,7 +10,7 @@ This project simulates airline demand and explores continuous dynamic pricing st
 - numpy
 - matplotlib
 - seaborn
-3. Open 'dynamic_pricing_notebook.ipynb' in Jupyter and run all cells.
+3. Open 'main_dynamic_pricing_.ipynb' in Jupyter and run all cells.
 
 ## Files
 - 'main_dynamic_pricing_.ipynb': Main analysis
