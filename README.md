@@ -8,7 +8,6 @@ This project simulates airline demand and explores continuous dynamic pricing st
 2. Install dependencies:
 - pandas
 - numpy
-- scikit-learn
 - matplotlib
 - seaborn
 3. Open 'dynamic_pricing_notebook.ipynb' in Jupyter and run all cells.
