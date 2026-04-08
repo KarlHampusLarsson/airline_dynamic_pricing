@@ -13,5 +13,5 @@ This project simulates airline demand and explores continuous dynamic pricing st
 3. Open 'dynamic_pricing_notebook.ipynb' in Jupyter and run all cells.
 
 ## Files
-- 'main_dynamic_pricing_notebook.ipynb': Main analysis
+- 'main_dynamic_pricing_.ipynb': Main analysis
 - 'synthetic_demand.csv': Synthetic dataset used for modeling
